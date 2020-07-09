@@ -1,0 +1,16 @@
+//Project Information
+Online Paying Guest Verification is smart java-based web application. This system will make the process of paying guest verification quite efficient and 90 percent work would be performed online which would return reduce the paper work. This system will have two module one with the reference of user and other with the reference of police station.
+
+//Tool used
+Netbeans
+ 
+//Database
+Mysql
+username-root
+password-root
+database table information-:data-online.sql
+
+//Two module
+1)Owner-:Filled all the information of Tenent.
+2)Police-:View all data of owner and Tenent.And after that they will doing further investigation of paying guest verification. 
+
